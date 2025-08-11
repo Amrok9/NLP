@@ -39,8 +39,8 @@ Each project includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nlp.git
-cd nlp
+git clone https://github.com/Amrok9/NLP.git
+cd NLP
 
 # Create virtual environment
 python -m venv venv
