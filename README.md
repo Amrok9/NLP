@@ -35,6 +35,24 @@ Each project includes:
 
 ---
 
+## 👨‍💻 Who This Is For
+
+- 📘 Beginners and intermediate NLP learners  
+- 🎓 AI students building portfolios and capstone projects  
+- 🔬 Practitioners exploring advanced language models  
+- 💼 Job seekers preparing for NLP-related technical interviews  
+- 🤝 Anyone curious about applied Natural Language Processing
+
+---
+
+## 📬 Contact Me
+
+If you'd like to connect, collaborate, or give feedback — feel free to reach out:
+
+- 💼 [LinkedIn – Amr Khaled](https://www.linkedin.com/in/amr-khaleddd/)  
+- 📧 Email: amrkhaled.gm@gmail.com  
+
+---
 ## ⚙ Installation
 
 ```bash
@@ -49,3 +67,7 @@ venv\Scripts\activate     # For Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+---
+
+**Keywords:** Natural Language Processing, NLP, Machine Learning, Transformer Models, Hugging Face, BERT, T5, spaCy, Sentiment Analysis, Text Summarization, Question Answering, Named Entity Recognition, Semantic Search, Chatbot, Translation Bot
