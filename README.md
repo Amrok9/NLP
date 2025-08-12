@@ -53,21 +53,6 @@ If you'd like to connect, collaborate, or give feedback — feel free to reach o
 - 📧 Email: amrkhaled.gm@gmail.com  
 
 ---
-## ⚙ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Amrok9/NLP.git
-cd NLP
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # For Mac/Linux
-venv\Scripts\activate     # For Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
----
 
 **Keywords:** Natural Language Processing, NLP, Machine Learning, Transformer Models, Hugging Face, BERT, T5, spaCy, Sentiment Analysis, Text Summarization, Question Answering, Named Entity Recognition, Semantic Search, Chatbot, Translation Bot
+
